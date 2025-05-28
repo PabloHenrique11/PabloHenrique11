@@ -13,10 +13,10 @@ Eu sou o Pablo Henrique, sou um Desenvolvedor Front-End apaixonado por tecnologi
 ### Connect with me:
 <p>
   <a href= "https://www.instagram.com/henrickzs_/">
-  <img align= "left" alt="icone do instagram uma camera dentro de um quadro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  <img align= "left" alt="icone do instagram uma camera dentro de um quadro" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
   </a>
   <a href= "https://www.linkedin.com/in/pablo-henrique-lima/">
-  <img align= "left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
+  <img align= "left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
   </a>
 </p>
 <br>
